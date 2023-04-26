@@ -5,6 +5,5 @@ Hello, my name is Ivan Alkhovik. I am a Computer Science student, with a focus i
 ## Past Projects:
 
 Computer Simulation: [https://github.com/IAlkhovik/Computer-Simulation](https://github.com/IAlkhovik/Computer-Simulation)
-
 This is a repository containing projects related to computer simulation. Currently, these include a "disease inside a population" IVP and the difusal of traffic from a traffic jam.
 ---
