@@ -8,6 +8,10 @@ Hello, my name is Ivan Alkhovik. I am a Computer Science student, with a focus i
 
 This is a repository containing projects, coded in Python, related to computer simulation. Currently, these include an initial value problem related to spread of disease within a population and the diffusal of traffic from a traffic jam.
 
+### Machine Learning (Jan 2023- May 2023): [https://github.com/IAlkhovik/Machine-Learning](https://github.com/IAlkhovik/Machine-Learning)
+
+This is a repository containing a project, coded in Python, related to machine learning. This project is designed to implement multiple machine learning models to predict the value of a property given its attributes.
+
 ### Tower Defense Game (Aug 2021- Dec 2021): [https://github.com/IAlkhovik/Tower-Defense-Game](https://github.com/IAlkhovik/Tower-Defense-Game)
 
 This is a repository containing a tower defense game, coded in Java/ JavaFX. It was developed in Java/ JavaFX, used a 2-week sprint Agile workplan, and used GitHub for collaboration and version control.
