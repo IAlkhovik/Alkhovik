@@ -4,6 +4,10 @@ Hello, my name is Ivan Alkhovik. I am a Computer Science student, with a focus i
 
 ## Past Projects:
 
+### For The People (Aug 2022 - May 2023): [https://github.com/IAlkhovik/For-The-People](https://github.com/IAlkhovik/For-The-People)
+
+This is repository containing a project, coded in Flutter and using Google Firebase, developed for Mamie Harper of Carrie's Closet. This is a mobile application designed to promote business exposure. It was developed using a 2-week sprint Agile workplan and used GitHub for collaboration and version control.
+
 ### Computer Simulation (Jan 2023 - May 2023): [https://github.com/IAlkhovik/Computer-Simulation](https://github.com/IAlkhovik/Computer-Simulation)
 
 This is a repository containing projects, coded in Python, related to computer simulation. Currently, these include an initial value problem related to spread of disease within a population and the diffusal of traffic from a traffic jam.
