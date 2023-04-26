@@ -18,4 +18,4 @@ This is a repository containing a tower defense game, coded in Java/ JavaFX. It 
 
 ### Fast Food Ordering Application (Aug 2020 - Dec 2020): [https://github.com/IAlkhovik/Fast-Food-Ordering-App](https://github.com/IAlkhovik/Fast-Food-Ordering-App)
 
-This is a repository containing a fast foor ordering application, coded in Java/JavaFX and utilizing a text file system to store orders and accounts.
+This is a repository containing a fast foor ordering application, coded in Java/JavaFX and utilizing a text file system to store orders and accounts. It contains code and project documentation.
