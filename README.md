@@ -14,5 +14,4 @@ This is a repository containing a project, coded in Python, related to machine l
 
 ### Tower Defense Game (Aug 2021- Dec 2021): [https://github.com/IAlkhovik/Tower-Defense-Game](https://github.com/IAlkhovik/Tower-Defense-Game)
 
-This is a repository containing a tower defense game, coded in Java/ JavaFX. It was developed in Java/ JavaFX, used a 2-week sprint Agile workplan, and used GitHub for collaboration and version control.
-
+This is a repository containing a tower defense game, coded in Java/ JavaFX. It was developed using a 2-week sprint Agile workplan and used GitHub for collaboration and version control.
