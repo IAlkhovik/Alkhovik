@@ -10,7 +10,7 @@ This is repository containing a project, coded in Flutter and using Google Fireb
 
 ### Computer Simulation (Jan 2023 - May 2023): [https://github.com/IAlkhovik/Computer-Simulation](https://github.com/IAlkhovik/Computer-Simulation)
 
-This is a repository containing projects, coded in Python, related to computer simulation. Currently, these include an initial value problem related to spread of disease within a population and the diffusal of traffic from a traffic jam.
+This is a repository containing projects, coded in Python, related to computer simulation. Currently, these include an initial value problem related to spread of disease within a population, a simulation for the diffusal of traffic in a traffic jam, and the usage of a bike sharing system across multiple stations.
 
 ### Machine Learning (Jan 2023 - May 2023): [https://github.com/IAlkhovik/Machine-Learning](https://github.com/IAlkhovik/Machine-Learning)
 
