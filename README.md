@@ -5,6 +5,10 @@ Hello, my name is Ivan Alkhovik. I am a responsible software engineer adept at p
 
 ## Projects:
 
+### Spring Boot + Jpa Website (January 2024-Ongoing): [https://github.com/IAlkhovik/Web-Database](https://github.com/IAlkhovik/Web-Database)
+
+This is an ongoing project for the development of the following skills: Spring Boot, HTML, Jpa, Hibernate, and Bootstrap. This project is a website which connects to a local MySQL database which stores People (id, name, age, occupation) objects. A user is able to add and remove a Person object from the database and search through the database by id, last name, or simply see all entries.
+
 ### For The People (Aug 2022 - May 2023): [https://github.com/IAlkhovik/For-The-People](https://github.com/IAlkhovik/For-The-People)
 
 This is repository containing a project, coded in Flutter and using Google Firebase, developed for Mamie Harper of Carrie's Closet. This is a mobile application designed to promote business exposure. It was developed using a 2-week sprint Agile workplan and used GitHub for collaboration and version control.
