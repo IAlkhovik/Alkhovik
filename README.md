@@ -3,7 +3,7 @@
 Hello, my name is Ivan Alkhovik. I am a responsible software engineer adept at problem-solving and highly motivated to learn seeking a work environment which challenges me and facilitates the advancement of my skills. I graduated from the Georgia Institude of Technology with a B.S. in Computer Science, focusing in on intelligence and computer simulation.
 
 
-## Past Projects:
+## Projects:
 
 ### For The People (Aug 2022 - May 2023): [https://github.com/IAlkhovik/For-The-People](https://github.com/IAlkhovik/For-The-People)
 
