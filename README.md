@@ -1,6 +1,6 @@
 # Ivan Alkhovik
 
-Hello, my name is Ivan Alkhovik. I am a responsible software engineer adept at problem-solving and highly motivated to learn seeking a work environment which challenges me and facilitates the advancement of my skills. I graduated from the Georgia Institude of Technology with a B.S. in Computer Science, focusing in on intelligence and computer simulation.
+Hello, my name is Ivan Alkhovik. I am a responsible software engineer adept at problem-solving and highly motivated to learn seeking a work environment which challenges me and facilitates the advancement of my skills. I graduated from the Georgia Institude of Technology with a B.S. in Computer Science, focusing on intelligence and computer simulation.
 
 
 ## Projects:
